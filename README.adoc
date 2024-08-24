@@ -4,7 +4,7 @@ image::ElmerLogoPlain64x64.png[float="right"]
 == Elmer FEM
 
 
-This is the official source code repository for the Elmer FEM software suite.
+This is the official source code repository for the Elmer FEM software suite. 
 
 Elmer is a tool that can solve a large number of partial differential equations making it an ideal tool for
 multiphysical problems. It includes models for structural mechanics, fluid dynamics, heat transfer,
